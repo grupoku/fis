@@ -31,22 +31,34 @@ es más cómodo y rápido para hacer un cambio en el sistema.
 AUTORES
 =======
 Felipe Duve, felipe.duve@alumnos.uv.cl (ward)
+
 Hugo Mancilla, hugo.mancilla@alumnos.uv.cl (carry)
+
 Javier Pizarro, javier.pizarro@alumnos.uv.cl (support)
+
 Hong Xiang, hong.xiang@alumnos.uv.cl (minion)
 
 DATOS DE PRUEBA PARA HITO3
 ==========================
 
 LOGIN
+
 Nombre de usuario:Francisco
+
 Password:1234
+
 Nombre de usuario:Hugo
+
 Password:123
+
 Nombre de usuario:Javier
+
 Password:321
 
 DATABASE
+
 Database:arriendos
+
 User:root
+
 Pass:""
