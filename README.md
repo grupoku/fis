@@ -44,21 +44,16 @@ DATOS DE PRUEBA PARA HITO3
 LOGIN
 
 Nombre de usuario:Francisco
-
 Password:1234
 
 Nombre de usuario:Hugo
-
 Password:123
 
 Nombre de usuario:Javier
-
 Password:321
 
 DATABASE
 
 Database:arriendos
-
 User:root
-
 Pass:""
